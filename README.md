@@ -1,4 +1,19 @@
-# Findings of Sentiments from Consumer Complaints 
+# Consumer Complaints - Sentiment Analysis 
+
+## Introduction
+This project employs sentiment analysis on consumer complaints to extract insights into different companies and their products. Throughout this analysis, I've focused on three key areas, addressing the following questions:
+1. Range of Sentiments for Student Loan
+2. Aggregate Sentiment Score of Top 10 Companies with Highest Positive and Negative Scores
+3. Negative Words Used by Consumers for Chase Credit Card
+
+## Directory 
+The columns that were used are: 
+- Product
+- Company
+- Consumer Complaint Narrative
+
+## Data Cleaning 
+
 ### Student Loans Complaints Sentiment 
 <p> Student loan complaint sentiment analysis reveals the prevailing emotions expressed by consumers. This analysis was done using the NRC sentiment analysis. Data was cleaned using filters and a pivot table to filter out inconsistencies. The table shows the range of emotions 
  of consumers who had to deal with student loan setbacks.</p>
